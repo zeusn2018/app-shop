@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel App Shop
+                    Laravel App Shop Z
                 </div>
 
                 <div class="links">
